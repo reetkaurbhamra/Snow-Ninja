@@ -18,7 +18,7 @@ def main():
 
     #creating a snow ninja (snowman object)
     snowmanImg = pygame.image.load("snowman.png")
-    snowmanX = 285
+    snowmanX = 2 #this was changed
     snowmanY = 480 
     snowmanChange = 0.5
 
